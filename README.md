@@ -8,9 +8,9 @@
 ##项目使用技术 
 1.Vue.js2.6 
 2.webpack4.0 
-3.mui 
-4.mint-ui 
-5.axios 
-6.vue-router3.0 
-7.vuex3.1 
-8.babel8
+3.babel8
+4.vue-router3.0 
+5.mui 
+6.mint-ui 
+7.axios 
+8.vuex3.1 
